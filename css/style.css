@@ -1359,7 +1359,7 @@ footer.footer .licenses {
   color: fade(, 50%);
 }
 
-footer.footer .social-wrapper {
+footer.footer .social-wrappers {
   display: -webkit-box
     /* OLD - iOS 6-, Safari 3.1-6 */
   ;
@@ -3878,7 +3878,7 @@ img.lazyload:not(.placeholder).loaded {
   empty-cells: hide;
 }
 
-.widget.blogger .content .social-wrapper {
+.widget.blogger .content .social-wrappers {
   display: -webkit-box
     /* OLD - iOS 6-, Safari 3.1-6 */
   ;
@@ -3910,7 +3910,7 @@ img.lazyload:not(.placeholder).loaded {
   margin: 4px 4px;
 }
 
-.widget.blogger .content .social-wrapper a {
+.widget.blogger .content .social-wrappers a {
   color: var(--color-meta);
   padding: 0;
   transition: all 0.28s ease;
@@ -3921,11 +3921,11 @@ img.lazyload:not(.placeholder).loaded {
   -ms-transition: all 0.28s ease;
 }
 
-.widget.blogger .content .social-wrapper a:hover {
+.widget.blogger .content .social-wrappers a:hover {
   color: #ff5722;
 }
 
-.widget.blogger .content .social-wrapper a.social {
+.widget.blogger .content .social-wrappers a.social {
   display: -webkit-box
     /* OLD - iOS 6-, Safari 3.1-6 */
   ;
@@ -3956,13 +3956,13 @@ img.lazyload:not(.placeholder).loaded {
   -webkit-border-radius: 100px;
 }
 
-.widget.blogger .content .social-wrapper a.social:hover {
+.widget.blogger .content .social-wrappers a.social:hover {
   background: #ebfbf7;
   color: #3dd9b6;
 }
 
 @media screen and (max-width: 768px) {
-  .widget.blogger .content .social-wrapper {
+  .widget.blogger .content .social-wrappers {
     justify-content: center;
     -webkit-justify-content: center;
     -khtml-justify-content: center;
@@ -8939,7 +8939,7 @@ pre {
     filter: brightness(70%) !important;
   }
 
-  :root:not([color-scheme]) .widget.blogger .content .social-wrapper a.social:hover {
+  :root:not([color-scheme]) .widget.blogger .content .social-wrappers a.social:hover {
     background: var(--color-card);
   }
 
@@ -9089,7 +9089,7 @@ pre {
   filter: brightness(70%) !important;
 }
 
-[color-scheme='dark'] .widget.blogger .content .social-wrapper a.social:hover {
+[color-scheme='dark'] .widget.blogger .content .social-wrappers a.social:hover {
   background: var(--color-card);
 }
 

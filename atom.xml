@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>森野</title>
+  
+  <subtitle>一个简单的博客</subtitle>
+  <link href="https://www.morino.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.morino.top/"/>
+  <updated>2023-05-28T12:41:32.418Z</updated>
+  <id>https://www.morino.top/</id>
+  
+  <author>
+    <name>森野</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://www.morino.top/2023/05/28/hello-world/"/>
+    <id>https://www.morino.top/2023/05/28/hello-world/</id>
+    <published>2023-05-27T20:45:37.000Z</published>
+    <updated>2023-05-28T12:41:32.418Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是这个博客的第一篇帖子，本来想写一下建站的过程，但是其实也就只是套了一下模板，自己原创的内容其实不多，所以还是算了。以后等有时间了，可能会专门写一篇文章来分享这个过程。最开始创建这个博客可能只是为了以后简历上能够多写一点东西，但是创建的过程还挺有意思的，第一次自己公布网站，然后还专门买了域名，其实还挺有成就感的，现阶段还挂载在<a href="https://github.com/TSMorino/TSmorino.github.io">Github</a>上，以后有机会的话，说不定可以试试自己搭建服务器，或者部署在云服务器上，不过这都是后话了，先把现在要做的事情做好吧，手头上还欠了好几个实验报告呢。</p><p>如果你对我或者我的贴子感兴趣的话，不妨收藏这个网页，抑或是关注我的<a href="https://github.com/TSMorino/">Github</a>账号，RSS还在日程上，过一段时间应该就可以正常使用了，</p><hr><div class="note quote"><p>这里是森野，希望你能在这里找到你自己感兴趣的内容。</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是这个博客的第一篇帖子，本来想写一下建站的过程，但是其实也就只是套了一下模板，自己原创的内容其实不多，所以还是算了。以后等有时间了，可能会专门写一篇文章来分享这个过程。最开始创建这个博客可能只是为了以后简历上能够多写一点东西，但是创建的过程还挺有意思的，第一次自己公布网站</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://www.morino.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://www.morino.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>

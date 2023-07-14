@@ -9222,3 +9222,14 @@ pre {
 .aplayer-lrc {
   display: none !important;
 }
+
+.social-wrapper {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+a{
+  color: gray !important;
+}
